@@ -27,6 +27,9 @@ public class JavaApplication9 {
      obj[0].showData();
      System.out.println("Employee Object 2:");
      obj[1].showData();
+     
+        System.out.println("Thank you!");
+     
   }
 }
 //Employee class with empId and name as attributes
