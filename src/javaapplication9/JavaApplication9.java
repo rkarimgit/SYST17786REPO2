@@ -29,6 +29,7 @@ public class JavaApplication9 {
      obj[1].showData();
      
         System.out.println("Thank you!");
+        System.out.println("bye!");
      
   }
 }
